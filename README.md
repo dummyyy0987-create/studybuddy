@@ -95,23 +95,6 @@ Mobile (optional)
 
 React Native
 
-🛠 Project Structure
-studybuddy-ai/
-│
-├── frontend/            # Next.js UI
-├── backend/             # FastAPI backend
-│   ├── routes/          # API endpoints
-│   ├── models/          # Pydantic + DB models
-│   ├── services/        # AI logic, flashcards, quizzes
-│   ├── database/        # SQL scripts, ORM
-│   └── main.py          # FastAPI entrypoint
-│
-├── mobile/              # React Native app (optional)
-│
-├── docs/                # Architecture diagrams & guides
-├── README.md
-└── LICENSE
-
 📦 Installation
 Clone the repository
 git clone https://github.com/your-username/studybuddy-ai.git
