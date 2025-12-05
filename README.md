@@ -6,6 +6,7 @@ StudyBuddy AI is an adaptive learning platform designed to help students prepare
 It uses AI to analyze study material, identify weaknesses, generate learning content, and create a personalized study roadmap.
 
 ✨ Features
+
 🎯 Personalized Study Planner
 
 Automatically generates a dynamic study schedule based on:
@@ -63,6 +64,7 @@ Leaderboard
 Weekly streaks
 
 🏗 Tech Stack
+
 Frontend
 
 Next.js
